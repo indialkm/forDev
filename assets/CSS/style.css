@@ -1,0 +1,29 @@
+/*Cores do projeto*/
+:root {
+  --cereja: #b72646;
+  --ninja: #3e3e3e;
+  --ouro: #ffae00;
+}
+
+/*Formatos*/
+
+/*Tela Login*/
+@media only screen and (min-width: 992px){
+  .move-down-desktop {
+    margin-top: 250px;
+  }
+
+  .move-right-desktop {
+    margin-left: 800px;
+  }
+
+  .carousel-item img{
+    height: 400px;
+  }
+}
+
+/*INDEX*/
+
+
+
+
